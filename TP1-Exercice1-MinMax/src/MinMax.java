@@ -19,13 +19,6 @@ public class MinMax {
 	    System.out.println("Min Number = " + Math.min(number1 , number2));
 	    System.out.println("Average = " + ((number1 + number2)/2));
 
-
-
-	    
-
-
-
-
 	}
 
 }

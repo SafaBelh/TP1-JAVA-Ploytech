@@ -36,9 +36,6 @@ public class calculator {
 		}
 		
 		System.out.print("Result = " + result); 
-
-
-
 	}
 
 }

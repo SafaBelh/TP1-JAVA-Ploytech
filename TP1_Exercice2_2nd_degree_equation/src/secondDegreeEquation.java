@@ -87,18 +87,6 @@ public class secondDegreeEquation {
 
 	    }
 	    
-
-
-	    
-	    
-	    
-	    
-	    
-
-	    
-
-
-
 	}
 
 }

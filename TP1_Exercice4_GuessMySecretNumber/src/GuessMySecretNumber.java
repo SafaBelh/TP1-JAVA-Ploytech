@@ -57,30 +57,7 @@ public class GuessMySecretNumber {
     	else {
     		System.out.print("You LOST !! ") ;
     	}
-
-    	
-
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-
-	    
+  
 
 	}
 
